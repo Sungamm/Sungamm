@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Sungamm
+- 🌱 I’m currently learning to use Homebridge
